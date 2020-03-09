@@ -1,6 +1,6 @@
 # Springboot-Cloud-
 Spring-Boot cloud application development.
-Spring framework is widely use Java framework out there and it makes web and microservices application development a lot easy for Java developers.
+Spring framework is widely use Java framework out there and it makes web and microservices application development a lot easier for Java developers.
 
 Spring framework provides Java developers with spring-boot a branch of or sub-project of spring framework.
 The features of spring-boot help Java developers or spring developers to become more productive because it comes with pre-configurations, dependencies.
