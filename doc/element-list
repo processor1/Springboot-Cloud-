@@ -1,0 +1,7 @@
+com.example.models
+com.example.springcloud
+org.example.daos
+org.example.dbconfig
+org.example.rest.endpoints
+org.example.services
+org.main.apps

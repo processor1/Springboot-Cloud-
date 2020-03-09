@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.example.models"},{"l":"com.example.springcloud"},{"l":"org.example.daos"},{"l":"org.example.dbconfig"},{"l":"org.example.rest.endpoints"},{"l":"org.example.services"},{"l":"org.main.apps"}]
