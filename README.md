@@ -1,12 +1,17 @@
 # Springboot-Cloud-
 Spring-Boot cloud application development .
 Spring framework is widely use Java framework out there and it makes web and microservices application development a lot easy for Java developers.
+
 Spring framwork provide Java developers with spring-boot a branche of or sub-project of spring framework .
 The features of spring-boot helps Java developers or spring developers to become more productive because it comes with pre-configurations,dependencis .
+
 You can build spring application but accessing https://start.spring.io/ there you  can select the language you will love to use and build tool to use .
+
 You can use Java,Kotlin,Groovy and Scala for spring and spring-boot applicaiton development and for the build tool you can select maven or gradle.
-And don't forget we need JDK too so the supported JDK versions are listed there you just need to select the version you have on your system. And after that 
-you need to add your dependencies to the project . spring-boot comes with in built server example tomcat server so you don't need applicaiton server like Java EE or Jakarta EE does .
+
+And don't forget we need JDK too so the supported JDK versions are listed there you just need to select the version you have on your system. And after that you need to add your dependencies to the project . 
+
+spring-boot comes with in built server example tomcat server so you don't need applicaiton server like Java EE or Jakarta EE does .
 
 In this simple project  i use couple of spring dependencies and the tools i used.
 For the development tools
