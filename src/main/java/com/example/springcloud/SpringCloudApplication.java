@@ -15,6 +15,6 @@ public class SpringCloudApplication {
 	@RequestMapping(value="/")
 	@ResponseBody
 	public String welcome() {
-		return "\\";
+		return "/";
 	}
 }
